@@ -1,0 +1,15 @@
+.row {
+  background-color: yellow;
+  height: 200px;
+}
+
+.a {
+  background-color: red;
+}
+
+.b {
+  background-color: teal;
+}
+.c {
+  background-color: rgb(11, 128, 0);
+}
